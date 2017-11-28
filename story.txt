@@ -2,3 +2,7 @@ This is a blank file to demonstrate how git works
 testing the difference
 how the new branch is created when something is stashed
 difference between reset and checkout
+
+will definitely finish the reset and checkout mistery and perhaps that holds the key to knowing almost everything on git.
+
+one down: (soft,mixed (default), hard)
