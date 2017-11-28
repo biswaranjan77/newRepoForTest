@@ -1,0 +1,3 @@
+This is a blank file to demonstrate how git works
+testing the difference
+reverting uncommited changes in tracked file
