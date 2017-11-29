@@ -9,3 +9,5 @@ one down: (soft,mixed (default), hard)
 now testing the git fetch
 
 now making changes in the remote branch.
+
+hello, now also making changes in the remote branch to understand git fetch.
