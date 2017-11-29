@@ -7,3 +7,5 @@ will definitely finish the reset and checkout mistery and perhaps that holds the
 
 one down: (soft,mixed (default), hard)
 now testing the git fetch
+
+now making changes in the remote branch.
