@@ -6,3 +6,4 @@ difference between reset and checkout
 will definitely finish the reset and checkout mistery and perhaps that holds the key to knowing almost everything on git.
 
 one down: (soft,mixed (default), hard)
+now testing the git fetch
